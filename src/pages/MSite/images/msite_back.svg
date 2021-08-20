@@ -1,0 +1,29 @@
+<svg width="375" height="200" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="202" width="377" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="29" rx="29" id="svg_4" cy="37.114583" cx="45.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <ellipse ry="29" rx="29" id="svg_5" cy="38.114583" cx="141.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <ellipse ry="29" rx="29" id="svg_6" cy="38.114583" cx="233.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <ellipse ry="29" rx="29" id="svg_7" cy="38.114583" cx="327.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <ellipse ry="29" rx="29" id="svg_8" cy="138.114583" cx="327.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <ellipse stroke="#ffffff" ry="29" rx="29" id="svg_9" cy="138.114583" cx="233.666667" stroke-width="1.5" fill="#EDFFFF"/>
+  <ellipse stroke="#ffffff" ry="29" rx="29" id="svg_10" cy="137.114583" cx="139.666667" stroke-width="1.5" fill="#EDFFFF"/>
+  <ellipse stroke="#ffffff" ry="29" rx="29" id="svg_11" cy="138.114583" cx="46.666667" stroke-width="1.5" fill="#EDFFFF"/>
+  <rect id="svg_12" height="17" width="58" y="171.114583" x="17.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_13" height="17" width="58" y="70.114583" x="17.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_14" height="17" width="58" y="70.114583" x="114.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_15" height="17" width="58" y="171.114583" x="113.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_16" height="17" width="58" y="69.114583" x="206.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_17" height="17" width="58" y="169.114583" x="206.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_18" height="17" width="58" y="169.114583" x="302.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+  <rect id="svg_19" height="17" width="58" y="70.114583" x="299.666667" stroke-width="1.5" stroke="#ffffff" fill="#EDFFFF"/>
+ </g>
+</svg>

@@ -1,0 +1,651 @@
+{
+    "goods": [
+        {
+            "name": "优惠",
+            "icon":"//www.test2.com/appimgs/goodicons/001.jpg",
+            "foods": [
+                {
+                    "name": "南瓜粥",
+                    "price": 9,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 91,
+                    "rating": 100,
+                    "info": "主、辅料：水、大米、南瓜、冰糖等",
+                    "icon": "//www.test2.com/appimgs/iconimgs/001.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/001.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "15",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/002.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/002.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "折扣",
+            "icon":"//www.test2.com/appimgs/goodicons/002.jpg",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/003.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/003.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/004.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/004.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "香浓甜粥",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/005.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/005.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/006.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/006.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "营养咸粥",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/007.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/007.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/008.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/008.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "爽口凉菜",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/009.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/009.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/010.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/010.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "精选套餐",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/011.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/011.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/012.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/012.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "果拼果汁",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/013.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/013.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/014.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/014.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "小吃主食",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/015.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/015.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/016.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/016.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "特色粥品",
+            "icon":"",
+            "foods": [
+                {
+                    "name": "娃娃菜炖豆脑",
+                    "price|10-20": 20,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 43,
+                    "rating": 92,
+                    "info": "",
+                    "icon": "//www.test2.com/appimgs/iconimgs/017.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/017.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "很喜欢的粥",
+                            "avatar": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "红豆薏米美肤粥",
+                    "price":12,
+                    "oldPrice": "",
+                    "description": "甜粥",
+                    "sellCount": 86,
+                    "rating": 100,
+                    "info": "美肤粥对皮肤有很好的保养作用",
+                    "icon": "//www.test2.com/appimgs/iconimgs/018.jpg",
+                    "image": "//www.test2.com/appimgs/foodimgs/018.jpg",
+                    "ratings": [
+                        {
+                            "username": "3******C",
+                            "rateTime": 1469281964000,
+                            "rateType": 0,
+                            "text": "",
+                            "avatar": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "ratings": [
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 5,
+            "rateType": 0,
+            "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+            "avatar": "//www.test2.com/appimgs/face/001.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 15,
+            "score": 2.3,
+            "rateType": 1,
+            "text": "不好喝.",
+            "avatar": "//www.test2.com/appimgs/face/002.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 25,
+            "score": 4,
+            "rateType": 0,
+            "text": "可以吃呦.",
+            "avatar": "//www.test2.com/appimgs/face/003.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 1,
+            "rateType": 1,
+            "text": "不来了.",
+            "avatar": "//www.test2.com/appimgs/face/004.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 5,
+            "rateType": 0,
+            "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+            "avatar": "//www.test2.com/appimgs/face/005.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 5,
+            "rateType": 0,
+            "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+            "avatar": "//www.test2.com/appimgs/face/006.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 5,
+            "rateType": 0,
+            "text": "",
+            "avatar": "//www.test2.com/appimgs/face/007.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 1.3,
+            "rateType": 1,
+            "text": "",
+            "avatar": "//www.test2.com/appimgs/face/008.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 5,
+            "rateType": 0,
+            "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+            "avatar": "//www.test2.com/appimgs/face/009.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        },
+        {
+            "username": "3******C",
+            "rateTime": 1469281964000,
+            "deliveryTime": 30,
+            "score": 5,
+            "rateType": 0,
+            "text": "不错,粥很好喝,我经常吃这一家,非常赞,以后也会常来吃,强烈推荐.",
+            "avatar": "//www.test2.com/appimgs/face/010.jpg",
+            "recommend": [
+                "南瓜粥",
+                "皮蛋瘦肉粥",
+                "扁豆焖面",
+                "娃娃菜炖豆脑",
+                "牛肉馅饼"
+            ]
+        }
+    ],
+    "info": {
+        "name": "嘉禾一品(温都水城)",
+        "description": "硅谷专送",
+        "deliveryTime": 28,
+        "score": 4.2,
+        "serviceScore": 4.1,
+        "foodScore": 4.3,
+        "rankRate": 69.2,
+        "minPrice": 20,
+        "deliveryPrice": 4,
+        "ratingCount": 24,
+        "sellCount": 90,
+        "distance": "1000m",
+        "bulletin": "是以粥为特色的中式营养快餐，自2004年10月18日创立“嘉和一品”",
+        "category": "包子粥店，简餐",
+        "phone": "18501083744",
+        "address": "北京市丰台区太平桥44号",
+        "workTime": "09:35-24:00",
+        "bgImg":"//www.test2.com/appimgs/shop/011.jpg",
+        "avatar":"//www.test2.com/appimgs/windowimgs/001.jpg",
+        "pics": [
+            "//www.test2.com/appimgs/shoppics/001.jpg",
+            "//www.test2.com/appimgs/shoppics/002.jpg",
+            "//www.test2.com/appimgs/shoppics/003.jpg",
+            "//www.test2.com/appimgs/shoppics/004.jpg",
+            "//www.test2.com/appimgs/shoppics/005.jpg"
+        ],
+        "supports": [
+            {
+                "type": 0,
+                "name": "首单",
+                "content": "新用户下单立减17元(不予其他活动同享)"
+            },
+            {
+                "type": 1,
+                "name": "满减",
+                "content": "满35减19,满65减35"
+            },
+            {
+                "type": 2,
+                "name": "特价",
+                "content": "【立减19.5元】欢乐小食餐"
+            },
+            {
+                "type": 2,
+                "name": "特价",
+                "content": "【立减29元】火烤菠萝皇堡双人餐"
+            },
+            {
+                "type": 2,
+                "name": "特价",
+                "content": "【立减16.5元】火烤菠萝皇堡单人餐"
+            },
+            {
+                "type": 2,
+                "name": "特价",
+                "content": "【立减15】经典安格斯单人餐"
+            },
+            {
+                "type": 1,
+                "name": "满减",
+                "content": "满35减19,满65减35"
+            },
+            {
+                "type": 2,
+                "name": "特价",
+                "content": "【立减15】经典安格斯单人餐"
+            }
+        ]
+
+    }
+}

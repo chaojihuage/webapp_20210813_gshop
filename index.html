@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0,user-scalable=no">
+    <title>gshop</title>
+    <link rel="stylesheet" href="/static/css/reset.css">
+    <link rel="stylesheet" href="//at.alicdn.com/t/font_2680296_e3ne3abfmvi.css">
+    <script src="https://cdn.bootcdn.net/ajax/libs/fastclick/1.0.6/fastclick.js"></script>
+    <script>
+      if ('addEventListener' in document) {
+        document.addEventListener('DOMContentLoaded', function() {
+          FastClick.attach(document.body);
+        }, false);
+        FastClick.prototype.onTouchEnd = function(event) { // input获取焦点不报错且不能为text，定义个textt
+          if(event.target.hasAttribute("type") && event.target.getAttribute("type") == "textt") {
+            event.preventDefault();　　　
+            return false;　　
+          }
+        }
+      }
+      if(!window.Promise){
+        document.writeIn('<script src="https://cdn.bootcdn.net/ajax/libs/es6-promise/4.2.8/es6-promise.js"><\/script>')
+      }
+    </script>
+    <style>
+      html,
+      body{
+        height: 100%
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
